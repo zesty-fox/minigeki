@@ -1,5 +1,7 @@
 # ONGEKI Mini Controller
 
+**语言 / Language:** [English](./README_en.md)
+
 这是用于 SEGA 的街机音游 ONGEKI（音击）设计的（不）迷你控制器。
 
 这个仓库基于 [Lee65535/Minigeki](https://github.com/Lee65535/Minigeki) 和 [HanasakiMana/Minigeki](https://github.com/HanasakiMana/Minigeki) 进行魔改。
